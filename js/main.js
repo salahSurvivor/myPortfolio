@@ -39,6 +39,6 @@ $(window).on('load', function(){
 /*End loadingPage script*/
 
 function showMessage(){
-    alert('ok');
+    alert('you can not send this message because any free hosting website i go to does not want to deploy my website because there is many of files, so for deploy it i have to pay, so i deceided to leave just the front-end version');
 }
 
