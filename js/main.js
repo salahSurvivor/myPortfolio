@@ -38,3 +38,7 @@ $(window).on('load', function(){
 });
 /*End loadingPage script*/
 
+function showMessage(){
+    alert('ok');
+}
+
